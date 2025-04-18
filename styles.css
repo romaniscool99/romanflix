@@ -19,7 +19,7 @@ p {
     background-color: rgb(29, 29, 29);
     border-style: solid;
     outline: none;
-    border-color: white;
+    border-color: magenta;
     border-width: 2.5px;
     border-radius: 5px;
     padding: 12px;
@@ -36,8 +36,8 @@ p {
 }
 
 #search:focus {
-    border-color: white;
-    box-shadow: 0 0 10px 3px rgba(255, 255, 255, 0.8);
+    border-color: magenta;
+    box-shadow: 0 0 10px 3px rgba(255, 75, 240, 0.8);
 }
 
 button {
